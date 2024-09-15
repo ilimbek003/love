@@ -1,0 +1,36 @@
+.plus_I_u {
+  position: relative;
+}
+
+.plus_I_u::after {
+  position: absolute;
+  content: "И + У";
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  margin: -10px 0 0 0;
+}
+
+.project {
+  position: relative;
+  font-weight: 400;
+  z-index: 1;
+  font-size: 14.5px;
+  color: #fff;
+  line-height: 1.2;
+}
+
+.best-one {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.margin {
+  margin: 200px 0 0 0;
+}
+
+.pro-photo {
+  font-size: 20px;
+  font-weight: 400;
+  color: #0000;
+}

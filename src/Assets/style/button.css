@@ -1,0 +1,16 @@
+.btn-btn-button {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 40px;
+  background-color: #9d3333;
+  width: 91%;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 8px 0;
+  cursor: pointer;
+  margin: 0 auto;
+}
